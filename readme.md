@@ -37,7 +37,7 @@ node-backend/
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/kavinraj292008-a11y/swynex-intern-task1.git
 ```
 
 2. Navigate to the project directory:
